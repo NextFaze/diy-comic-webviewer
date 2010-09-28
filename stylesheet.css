@@ -1,0 +1,117 @@
+body {
+	background-color: #7b7b7b;
+	text-align: center;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.tableCell {
+	background-color: #ececec;
+	border-width: 1.0px;
+	border-color: #cfccce;
+	margin: 4px;
+	text-align: left;
+	padding: 4px;
+	display: table;
+	width: 100%;
+}
+
+a {
+	color: #c7110c;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #930a06;
+}
+
+a:visited {
+	color: #c7110c;
+}
+
+.title {
+	background-color: #c6230c;
+	color: #feffff;
+	text-align: center;
+	font: 18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	width: 100%;
+	display: table;
+	margin: 4px;
+	padding: 4px;
+}
+
+.title a {
+	color: #e5e5e5;
+	text-decoration: none;
+}
+
+.title a:hover {
+	color: #b5b5b5;
+}
+
+.smallText {
+	font-size: 12px;
+	color: #666;
+}
+
+.homeLink {
+	float: left;
+	color: #feffff;
+	display: block;
+	padding: 2px;
+	margin-left: 2px;
+	position: fixed;
+}
+
+.homeLink a {
+	color: #feffff;
+}
+
+.homeLink a:hover {
+	color: #d1d1d1;
+}
+
+.table {
+	width: 664px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.tableUser {
+	color: #616161;
+}
+
+.tableImage {
+	float: left;
+	display: inline-block;
+	position: relative;
+	left: 0;
+	overflow: hidden;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	margin: 4px;
+}
+
+.tableText {
+	display: table;
+}
+
+.slideImage {
+	padding: 0;
+	background-color: #fffeff;
+	display: inline;
+	width: 323px;
+	height: 323px;
+	border: 2px solid #000;
+	margin: 2px;
+}
+
+.imageBlock {
+	padding: 0;
+	background-color: #feffff;
+	margin: 4px;
+	width: 100%;
+}
+
+
